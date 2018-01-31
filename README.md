@@ -80,4 +80,4 @@
     
 五:声明
 
-    尊重原著:http://www.jq22.com/jquery-info6536
+    尊重原著:http://www.jq22.com/
